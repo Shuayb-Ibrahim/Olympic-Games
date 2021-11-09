@@ -1,4 +1,4 @@
-<img src="images/dashboard-capture.PNG" width=450vh height=300vh ><img src="images/sql-capture.PNG" width=450vh height=300vh>
+<img src="images/dashboard-capture.PNG" width=400vh height=300vh ><img src="images/sql-capture.PNG" width=400vh height=300vh>
 
 ---
 ## Business Problem
