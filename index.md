@@ -1,5 +1,5 @@
-<img src="images/dashboard-capture.PNG" width=40% height=250vh>
-<img src="images/sql-capture.PNG" width=40% height=250vh>
+<img src="images/dashboard-capture.PNG" height=250vh>
+<img src="images/sql-capture.PNG" height=250vh>
 
 ---
 ## Business Problem
