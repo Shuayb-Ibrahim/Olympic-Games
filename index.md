@@ -1,6 +1,6 @@
 # **Olympic Games Analysis**
-<img src="images/dashboard-capture.png" width=49.5% height=250vh>
-<img src="images/sql-capture.png" width=49.5% height=250vh>
+<img src="images/dashboard-capture.PNG" width=49.5% height=250vh>
+<img src="images/sql-capture.PNG" width=49.5% height=250vh>
 
 ---
 ## Business Problem
