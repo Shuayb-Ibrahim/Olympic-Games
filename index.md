@@ -1,5 +1,5 @@
-<img src="images/dashboard-capture.PNG" height=250vh>
-<img src="images/sql-capture.PNG" height=250vh>
+<img src="images/dashboard-capture.PNG" height=300vh >
+<img src="images/sql-capture.PNG" height=300vh>
 
 ---
 ## Business Problem
@@ -10,7 +10,7 @@ Breaking down the task, I identified that I needed to create an interactive dash
 ---
 ## Data Collection & Table Structures
 The necessary data was first put into a SQL database and afterwards transformed using the transformations that you can see below.
-``` SQL
+```SQL
 SELECT	
 		[ID],
 		[Name] AS 'Olympian Name', -- renamed column
@@ -45,7 +45,7 @@ As this is a view where dimensions and facts have been combined, the data model 
 The following calculations were created in the Power BI reports using DAX (Data Analysis Expressions). To lessen the extent of coding, the re-use of measures (measure branching) was emphasized:
 
 
-``` DAX
+```DAX
 No. of Olympians = DISTINCTCOUNT( ‘Olympic Data'[ID] )
 
 No. of Medals = COUNTROWS( ‘Olympic Data’ )
