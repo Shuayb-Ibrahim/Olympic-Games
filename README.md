@@ -1,4 +1,4 @@
-# Olympic-Games
+# Olympic Games Analysis
 
 <img src="images/dashboard-capture.PNG" width=400vh height=300vh ><img src="images/sql-capture.PNG" width=400vh height=300vh>
 
