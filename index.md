@@ -39,7 +39,7 @@ WHERE RIGHT(Games,CHARINDEX(' ',REVERSE(Games))-1) = 'Summer'; --Where clause to
 ## Data Model
 As this is a view where dimensions and facts have been combined, the data model that is created in Power BI is one table. The query from previous step was loaded in directly.
 
-<img src="images/data-model-capture.png" height=350vh>
+<img src="images/data-model-capture.PNG" height=350vh>
 
 ---
 ## Calculations
@@ -61,5 +61,5 @@ The finished dashboard consist of visualizations and filters that gives an easy 
 **Click on the image to use the dashboard**
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiODY2OWQ5ZjAtYWIxNy00MDdlLWExYTEtZDRiMzY2YzdkZWMxIiwidCI6IjUwMDYzZDAzLTZjM2UtNGEzOC04MWY3LWQ5MWMwZjQyOTZjNyJ9">
-     <img alt="Dashboard" src="images/dashboard-capture.png">
+     <img alt="Dashboard" src="images/dashboard-capture.PNG">
 </a>
